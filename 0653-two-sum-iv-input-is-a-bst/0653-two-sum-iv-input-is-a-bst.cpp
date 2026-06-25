@@ -11,31 +11,51 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    void inorder(TreeNode *root , int k){
-        if(root==NULL) return ;
+    unordered_set<int>st;
+    bool dfs(TreeNode *root , int k){
+        if(!root) return false;
 
-        inorder(root->left ,  k);
-        arr.push_back(root->val);
-        inorder(root->right , k);
+        if(st.count(k-root->val)) return true;
+        st.insert(root->val);
 
+        return dfs(root->left , k)||dfs(root->right , k);
     }
+
     bool findTarget(TreeNode* root, int k) {
 
-        inorder(root , k);
+        return dfs(root , k);
 
-        bool check = false;
-        for(int i = 0;i<arr.size();i++){
-            int val = arr[i];
-
-            for(int j = i+1;j<arr.size();j++){
-                if(val + arr[j]==k){
-                    check = true;
-                    break;
-                }
-            }
-        }
         
-        return check;
     }
 };
+
+// class Solution {
+// public:
+//     vector<int> arr;
+//     void inorder(TreeNode *root , int k){
+//         if(root==NULL) return ;
+
+//         inorder(root->left ,  k);
+//         arr.push_back(root->val);
+//         inorder(root->right , k);
+
+//     }
+//     bool findTarget(TreeNode* root, int k) {
+
+//         inorder(root , k);
+
+//         bool check = false;
+//         for(int i = 0;i<arr.size();i++){
+//             int val = arr[i];
+
+//             for(int j = i+1;j<arr.size();j++){
+//                 if(val + arr[j]==k){
+//                     check = true;
+//                     break;
+//                 }
+//             }
+//         }
+        
+//         return check;
+//     }
+// };

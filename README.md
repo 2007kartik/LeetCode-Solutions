@@ -27,4 +27,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->

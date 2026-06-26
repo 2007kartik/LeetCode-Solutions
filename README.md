@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->

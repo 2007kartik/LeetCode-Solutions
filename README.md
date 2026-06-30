@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->

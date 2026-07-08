@@ -1,84 +1,48 @@
 class Solution {
 public:
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        const int MOD = 1000000007;
-        int n = s.size();
+        static const int MOD=1e9+7;
+        int n=s.size();
 
-        vector<int> digit;
-        vector<int> pos;
-
-        //Store non-zero digits and their positions
-        for (int i = 0; i < n; i++) {
-            if (s[i] != '0') {
-                digit.push_back(s[i] - '0');
-                pos.push_back(i);
+         vector<int>cnt(n+1,0);
+         vector<int>digit;
+         for(int i=0;i<n;i++){
+            cnt[i+1]=cnt[i];
+            if(s[i]!='0'){
+                digit.push_back(s[i]-'0');
+                cnt[i+1]++;
             }
-        }
+         }
+         int m=digit.size();
+         vector<long long>pow(m+1,1);
+         for(int i=1;i<=m;i++){
+            pow[i]=(pow[i-1]*10)%MOD;
+         }
+         vector<long long>prefstr(m+1,0);
+         vector<long long>presum(m+1,0);
+         for(int i=1;i<=m;i++){
+            prefstr[i]=(prefstr[i-1]*10+digit[i-1])%MOD;
+            presum[i]=presum[i-1]+digit[i-1];
+         }
+         vector<int>ans;
+         for(auto &q:queries){
+             int l=q[0];
+             int r=q[1];
 
-        int k = digit.size();
-
-        //prefix sum of digits
-        vector<long long> prefSum(k + 1, 0);
-
-        //prefix concatenated number
-        vector<long long> prefNum(k + 1, 0);
-
-        //powers of 10
-        vector<long long> pow10(k + 1, 1);
-
-        for (int i = 1; i <= k; i++)
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
-
-        for (int i = 0; i < k; i++) {
-            prefSum[i + 1] = prefSum[i] + digit[i];
-            prefNum[i + 1] = (prefNum[i] * 10 + digit[i]) % MOD;
-        }
-
-        //first non-zero digit index >= i
-        vector<int> first(n, -1);
-        int p = 0;
-        for (int i = 0; i < n; i++) {
-            while (p < k && pos[p] < i)
-                p++;
-            if (p < k)
-                first[i] = p;
-        }
-
-        //last non-zero digit index <= i
-        vector<int> last(n, -1);
-        p = k - 1;
-        for (int i = n - 1; i >= 0; i--) {
-            while (p >= 0 && pos[p] > i)
-                p--;
-            if (p >= 0)
-                last[i] = p;
-        }
-
-        vector<int> ans;
-
-        for (auto &q : queries) {
-
-            int l = first[q[0]];
-            int r = last[q[1]];
-
-            if (l == -1 || r == -1 || l > r) {
+             int R=cnt[r+1]-1;
+             int L=cnt[l];
+             if(L>R){
                 ans.push_back(0);
                 continue;
-            }
+             }
+             int len=R-L+1;
+             long long x=(prefstr[R+1]-prefstr[L]*pow[len])%MOD;
+             if(x<0) x+=MOD;
+             long long  sum= presum[R+1]-presum[L];
 
-            int len = r - l + 1;
-
-            long long x =
-                (prefNum[r + 1] -
-                 prefNum[l] * pow10[len] % MOD +
-                 MOD) % MOD;
-
-            long long sum = prefSum[r + 1] - prefSum[l];
-
-            ans.push_back((x * sum) % MOD);
-        }
-
-        return ans;
+            ans.push_back((x*sum)%MOD);
+         }
+         return ans;
     }
 };
 

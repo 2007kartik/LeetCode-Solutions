@@ -1,24 +1,24 @@
 class Solution {
 public:
-    int solve(int m , int n  , vector<vector<int>>&grid , vector<vector<int>> &dp){
-        if(m==0 && n==0){  
+    // int solve(int m , int n  , vector<vector<int>>&grid , vector<vector<int>> &dp){
+    //     if(m==0 && n==0){  
 
-                return grid[m][n];
+    //             return grid[m][n];
 
-           }
-           if(m<0) return INT_MAX;
-           if(n<0) return INT_MAX;
+    //        }
+    //        if(m<0) return INT_MAX;
+    //        if(n<0) return INT_MAX;
 
-           if(dp[m][n]!=-1) return dp[m][n];
+    //        if(dp[m][n]!=-1) return dp[m][n];
 
-            long long up = 0LL +grid[m][n] + solve(m-1 , n , grid , dp);
+    //         long long up = 0LL +grid[m][n] + solve(m-1 , n , grid , dp);
         
         
-            long long left = 0LL+grid[m][n] +  solve(m , n-1 , grid , dp);
+    //         long long left = 0LL+grid[m][n] +  solve(m , n-1 , grid , dp);
         
-        int mini = min(up , left);
-        return dp[m][n] = mini;
-    }
+    //     int mini = min(up , left);
+    //     return dp[m][n] = mini;
+    // }
     int minPathSum(vector<vector<int>>& grid) {
 
 
@@ -27,8 +27,26 @@ public:
 
         vector<vector<int>> dp(m , vector<int>(n,-1));
 
-        return solve(m-1,n-1 , grid , dp);
-        
+      //  return solve(m-1,n-1 , grid , dp);
+
+      dp[0][0] =grid[0][0];
+
+      for(int i=0;i<m;i++){
+        for(int j = 0;j<n;j++){
+            if(i==0 && j==0) continue;
+
+            else {
+            int left = INT_MAX;
+            int up = INT_MAX;
+            if(i>0) up = grid[i][j] + dp[i-1][j];
+            if(j>0) left = grid[i][j] + dp[i][j-1]; 
+
+            dp[i][j] = min(up  , left);
+            }
+            
+        }
+      }
+        return dp[m-1][n-1];
         
     }
 };

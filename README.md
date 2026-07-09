@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0518-coin-change-ii) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |

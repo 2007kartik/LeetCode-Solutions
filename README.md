@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |

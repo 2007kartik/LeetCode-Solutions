@@ -9,14 +9,16 @@ public:
             vector<int> row(i+1);
 
             row[0] = 1;
-            for(int j = 1;j<i;j++){
+            for(int j = 1;j<=i;j++){
+                 if(j==i){
+                    row[i] = 1;
+                    break;
+                 } 
                 row[j] = ans[i-1][j-1] + ans[i-1][j];
-            }
-            row[i] = 1;
+               
+            }            
             ans.push_back(row);
-
         }
-
         return ans;
     }
 };

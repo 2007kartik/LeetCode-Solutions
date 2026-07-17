@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |

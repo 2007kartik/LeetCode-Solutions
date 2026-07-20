@@ -98,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->

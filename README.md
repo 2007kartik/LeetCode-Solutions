@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1148-article-views-i) |

@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0127-word-ladder) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

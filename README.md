@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -289,4 +291,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1496-path-crossing) |
+| [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Number Theory
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |

@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1407-top-travellers) |
+| [1527-patients-with-a-condition](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1693-daily-leads-and-partners](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |

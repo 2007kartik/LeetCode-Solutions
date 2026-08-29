@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

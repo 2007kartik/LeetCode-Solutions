@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1193-monthly-transactions-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |

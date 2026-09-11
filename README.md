@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |

@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0491-non-decreasing-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |

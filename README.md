@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

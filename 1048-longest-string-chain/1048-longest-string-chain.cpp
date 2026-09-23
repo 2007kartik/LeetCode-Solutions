@@ -5,7 +5,7 @@ public:
         int first = 0;
         int second = 0;
         while(first < s1.size()){
-            if(second<s2.size() &&s1[first]==s2[second]) {
+            if(s1[first]==s2[second]) {
                 first++;
                 second++;
             }

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

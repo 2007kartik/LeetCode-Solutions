@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->

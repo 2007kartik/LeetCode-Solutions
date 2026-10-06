@@ -1,28 +1,23 @@
 class Solution {
 public:
-    void solve(int start, vector<int>&vis ,vector<vector<int>>& rooms ){
-
-        vis[start]=true;
-        vector<int>v  = rooms[start];     
-
-        for(int i = 0;i<v.size();i++){
-           if(!vis[v[i]]){
-            solve(v[i], vis , rooms);
-           }    
-           
+    void dfs(int source ,vector<vector<int>>& rooms ,vector<int> &vis ){
+        vis[source] =1;
+        for(auto it  : rooms[source]){
+            if(!vis[it]){
+                dfs(it , rooms , vis);
+            }
         }
     }
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
 
-        int sz = rooms.size();
+        int n = rooms.size();
+        vector<int> vis(n ,0);
 
-        vector<int>vis(sz , false);
+        dfs(0 , rooms , vis);
 
-       solve(0, vis , rooms);
-
-       for(int i = 0;i<vis.size();i++){
-        if(!vis[i]) return false;
-       }
+        for(auto it  : vis){
+            if(it==0) return false;
+        }
         return true;
         
     }

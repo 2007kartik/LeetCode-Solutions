@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0500-keyboard-row](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |

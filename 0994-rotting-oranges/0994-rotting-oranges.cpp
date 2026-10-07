@@ -1,54 +1,48 @@
 class Solution {
 public:
+    int dr[4] = {-1 , 0 , 1 , 0};
+    int dc[4] = {0 , 1 , 0 , -1};
+    bool isValid(int r , int c , int row , int col){
+        return r>=0 && r<row && c>=0 && c<col;
+    }
     int orangesRotting(vector<vector<int>>& grid) {
+        int row = grid.size();
+        int col = grid[0].size();
 
-        int n = grid.size();
-        int m  = grid[0].size();
-
-
-        queue<pair<pair<int , int> , int>> q;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        //get all rotten oranage and push in queue with time 0;
-
-        for(int i =0;i<n;i++){
-            for(int j = 0;j<m;j++){
+        //queue {{i , j} , steps}
+        queue<pair<pair<int , int> ,int>>q;
+        for(int i  = 0;i<row;i++){
+            for(int j = 0;j<col;j++){
                 if(grid[i][j]==2){
-                    q.push({{i,j},0});
-                    vis[i][j] = 2;
+                    q.push({{i , j} , 0});
                 }
-                else vis[i][j] = 0;
             }
         }
-
-        int time =0;
-        int drow[] = {-1 , 0, 1,0};
-        int dcol[] = {0,1,0,-1};
-
+        int steps  =0;
         while(!q.empty()){
             int r = q.front().first.first;
             int c = q.front().first.second;
-            int tm = q.front().second;
-
-            time = max(tm , time);
+            steps = q.front().second;
             q.pop();
 
-            for(int i = 0;i<4;i++){
-                int nrow = r+drow[i];
-                int ncol = c+dcol[i];
-
-                if(nrow>=0&&nrow<n && ncol>=0 && ncol<m&& vis[nrow][ncol]!=2 && grid[nrow][ncol]==1){
-                    q.push({{nrow , ncol} ,time+1});
-                    vis[nrow][ncol] = 2;
+            for(int k  = 0;k<4;k++){
+                int drow = r + dr[k];
+                int dcol = c + dc[k];
+                if(isValid(drow , dcol , row , col)){
+                    if(grid[drow][dcol]==1){
+                        grid[drow][dcol] = 2;
+                        q.push({{drow , dcol} , steps+1});
+                    }
                 }
             }
         }
 
-        for(int i = 0;i<n;i++){
-            for(int j =0;j<m;j++){
-                if(grid[i][j]==1 && vis[i][j]!=2) return -1;
+        for(int i  = 0;i<row;i++){
+            for(int j  = 0;j<col;j++){
+                if(grid[i][j]==1) return -1;
             }
         }
-
-        return time;
+        return steps;
+        
     }
 };

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |

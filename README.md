@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |

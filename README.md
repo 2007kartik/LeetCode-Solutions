@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1496-path-crossing](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1496-path-crossing) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |

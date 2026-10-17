@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Search Tree
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Database
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -515,10 +520,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -566,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->

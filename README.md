@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1706-where-will-the-ball-fall](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1706-where-will-the-ball-fall](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
+| [1706-where-will-the-ball-fall](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1929-concatenation-of-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table

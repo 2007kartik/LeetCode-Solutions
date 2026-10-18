@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0815-bus-routes](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0885-spiral-matrix-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0766-toeplitz-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |

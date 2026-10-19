@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 ## Binary Tree
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2498-frog-jump-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |

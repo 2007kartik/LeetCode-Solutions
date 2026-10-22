@@ -1,32 +1,35 @@
 class Solution {
 public:
-    int maxSubarraySumCircular(vector<int>& nums) {
-
-        int tot_sum = nums[0];
-        int maxKadane = nums[0];
-        int minKadane = nums[0];
-
-        int maxEnd = nums[0];
-        int minEnd = nums[0];
-        int sz = nums.size();
-        for(int i = 1;i<sz;i++){
-            tot_sum += nums[i];
-
-            maxEnd = max(nums[i] , maxEnd + nums[i]);
-            maxKadane = max(maxKadane , maxEnd);
-            minEnd = min(nums[i] , minEnd + nums[i]);
-            minKadane = min(minKadane , minEnd);
-
-           
-
-
-
+    int kadans_max(vector<int>&nums , int n){
+        int sum = nums[0];
+        int maxi = nums[0];
+        for(int i  = 1;i<n;i++){
+            sum  = max(sum + nums[i] , nums[i]);
+            maxi = max(maxi , sum);
         }
-         if(maxKadane <0){
-                return maxKadane;
-            }
+        return maxi;
+    }
 
-            return max(maxKadane , tot_sum- minKadane);
+    int kadans_min(vector<int> &nums , int n ){
+        int sum = nums[0];
+        int mini  = nums[0];
+       for(int i  = 1;i<n;i++){
+            sum  = min(sum + nums[i] , nums[i]);
+            mini = min(mini , sum);
+        }
+        return mini;
+    }
+    int maxSubarraySumCircular(vector<int>& nums) {
         
+        int n  = nums.size();
+        int sum = accumulate(nums.begin() , nums.end() , 0);
+
+        int maxi_sum = kadans_max(nums , n);
+        int min_sum = kadans_min(nums , n);
+
+        int cir_sum  = sum - min_sum;
+
+        if(maxi_sum>0) return max(maxi_sum , cir_sum);
+        return maxi_sum;
     }
 };

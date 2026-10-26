@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2090-k-radius-subarray-averages](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2256-minimum-average-difference](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2090-k-radius-subarray-averages](https://github.com/2007kartik/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2007kartik/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Function
 |  |

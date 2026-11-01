@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0815-bus-routes](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0815-bus-routes) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0885-spiral-matrix-iii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-array-of-doubled-pairs](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0954-array-of-doubled-pairs) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -531,11 +534,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Topological Sort
 |  |

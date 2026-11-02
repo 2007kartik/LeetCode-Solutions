@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -538,12 +541,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## Nim Game
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/2007kartik/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/2007kartik/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Topological Sort
 |  |
